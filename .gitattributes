@@ -1,2 +1,4 @@
 # to change language of repo from Javascript to Python
-*.cpp linguist-language=Dart
+#*.cpp linguist-language=Dart
+* linguist-vendored
+*.cpp linguist-vendored=false
